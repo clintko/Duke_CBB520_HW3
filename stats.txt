@@ -1,0 +1,102 @@
+
+DNA Sequence files
+==================
+
+Number of aligned reads: 181475
+
+By region name:
+    l-rRNA: 23013
+    CYTB: 11906
+    control region: 13829
+    COX2: 8288
+    COX1: 13082
+    ND6: 3689
+    ND5: 21895
+    ND4: 13351
+    tRNA-Arg: 395
+    ND3: 3965
+    ND2: 9617
+    tRNA-Trp: 1044
+    tRNA-Ala: 1031
+    origin L-strand repl: 542
+    tRNA-Cys: 1313
+    tRNA-Ser: 1993
+    ND1: 10624
+    tRNA-Val: 1034
+    s-rRNA: 16548
+    ATP6: 4114
+    tRNA-Leu: 1386
+    tRNA-Tyr: 876
+    COX3: 3253
+    tRNA-Glu: 813
+    ATP8: 1089
+    tRNA-Phe: 1616
+    tRNA-Gly: 556
+    tRNA-Ile: 1128
+    tRNA-Gln: 1004
+    tRNA-Met: 639
+    tRNA-Asn: 974
+    tRNA-Pro: 840
+    tRNA-Lys: 833
+    ND4L: 2029
+    tRNA-Asp: 1054
+    tRNA-Thr: 1173
+    tRNA-His: 939
+
+By region type:
+    rRNA: 39561
+    gene_CDS: 106902
+    D-loop: 13829
+    tRNA: 20641
+    rep_origin: 542
+
+RNA Sequence files
+==================
+
+Number of aligned reads: 32533
+
+By region name:
+    COX1: 3679
+    tRNA-Gln: 2322
+    ATP6: 732
+    CYTB: 2136
+    ND5: 6578
+    ND6: 3200
+    control region: 1686
+    ND4: 2464
+    ND1: 475
+    COX3: 1503
+    COX2: 641
+    ATP8: 112
+    tRNA-Ile: 399
+    ND4L: 653
+    ND2: 434
+    tRNA-Ala: 1419
+    tRNA-Glu: 1811
+    tRNA-Ser: 449
+    s-rRNA: 227
+    l-rRNA: 331
+    tRNA-Arg: 87
+    tRNA-Cys: 405
+    tRNA-Leu: 18
+    tRNA-Pro: 83
+    tRNA-Thr: 62
+    ND3: 94
+    tRNA-His: 97
+    tRNA-Asp: 35
+    tRNA-Asn: 273
+    tRNA-Met: 37
+    tRNA-Gly: 41
+    tRNA-Trp: 8
+    tRNA-Tyr: 11
+    tRNA-Lys: 9
+    origin L-strand repl: 16
+    tRNA-Val: 4
+    tRNA-Phe: 2
+
+By region type:
+    gene_CDS: 22701
+    tRNA: 7572
+    D-loop: 1686
+    rRNA: 558
+    rep_origin: 16
